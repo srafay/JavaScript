@@ -1,2 +1,2 @@
-var name;
-window.alert(name);
+var $name="[Lsrcr]Wajeeh";
+window.alert($name);
