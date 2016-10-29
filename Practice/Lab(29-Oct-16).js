@@ -1,5 +1,5 @@
-function RequestTea(){
-alert('You have requested tea');
+function RequestTea(quantity){
+alert('You have requested ' + quantity + ' cups of tea');
 }
 
 RequestTea();
