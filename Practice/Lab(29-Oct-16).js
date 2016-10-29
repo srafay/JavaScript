@@ -1,5 +1,5 @@
 function RequestTea(){
-alert('You have requested tree');
+alert('You have requested tea');
 }
 
 RequestTea();
